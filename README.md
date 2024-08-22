@@ -17,34 +17,4 @@ This comprehensive guide is here to equip you with everything you need to use In
     <a href="https://github.com/DefinetlyNotAI/CLI_OS"><img src="https://img.shields.io/github/repo-size/DefinetlyNotAI/CLI_OS" alt="GitHub Repo Size"></a>
 </div>
 
-## 🛠️ Installation and Setup 🛠️
-
-### Prerequisites
-
-Ensure your system meets these requirements:
-
-- CHANGE_ME.
-- CHANGE_ME.
-- CHANGE_ME.
-- CHANGE_ME.
-
-### Step-by-Step Installation
-
-1. **Clone the Repository**: Use Git to clone InOS to your local machine. Open Command Prompt as an administrator and run:
-
-   ```powershell
-   git clone https://github.com/DefinetlyNotAI/CLI_OS.git
-   ```
-
-2. **Navigate to the Project Directory**: Change your current directory to the cloned CHANGE_ME folder:
-
-   ```powershell
-   cd CHANGE_ME
-   ```
-
-3. **Run CHANGE_ME**: Run `./CHANGE_ME` more info below.
-
-
-### Basic Usage
-
-CHANGE_ME
+It is not complete yet sorry
